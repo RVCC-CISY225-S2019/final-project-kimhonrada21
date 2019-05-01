@@ -31,9 +31,10 @@ body {
 .my-info {
     font-style: italic;
 }
-picture:hover {
+.pic:hover{
     transition-duration: 2s;
-    transform: scale(1.5) translate(50%, -50%);
+    transform: scale(1.5) translate(0%, -50%);
+    margin-left: 2rem;
 }
 
 article h1,
@@ -69,7 +70,7 @@ input {
 
 input:focus,
 textarea:focus {
-    background-color: aqua;
+    background-color: gray;
     border-radius: 5px;
     outline: none;
 }
@@ -98,6 +99,8 @@ button:hover {
 
 button:active {
     background: cyan;
+    transform: scale(2) translate(50%, 0%);
+    transition-duration: 100ms;
 
 }
 
