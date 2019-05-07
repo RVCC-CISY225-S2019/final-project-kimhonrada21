@@ -14,7 +14,7 @@
   3. A profile section including a profile photo and a bio.
   4. A photo gallery.
   5. A story entitled "Evelina"
-  6. A blog article - "CSS Sprintes".
+  6. A blog article - "CSS Sprites".
   7. A contact form allowing readers to send contact message.
   8. A footer that displaying a copyright notice and social icon to GitHub account.
 
