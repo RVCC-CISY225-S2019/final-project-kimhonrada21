@@ -44,7 +44,8 @@ body {
 }
 
 article h1,
-.story-body {
+.story-body,
+.article-body {
     align-self: center;
     justify-self: center;
 }
@@ -98,7 +99,7 @@ textarea {
 }
 
 button:hover {
-    transition-duration: 5;
+    transition-duration: 2s;
     background: #FFC500;
     border-width: 10px;
 }
@@ -264,7 +265,8 @@ footer {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas:
             "gallery-title gallery-title gallery-title"
-            "fig1 fig2 fig3";
+            "fig1 fig2 fig3"
+            "fig4 fig5 fig6";
     }
 
     .gallery h3 {
@@ -281,6 +283,18 @@ footer {
 
     section .fig3 {
         grid-area: fig3;
+    }
+
+    section .fig4 {
+        grid-area: fig4;
+    }
+
+    section .fig5 {
+        grid-area: fig5;
+    }
+
+    section .fig6 {
+        grid-area: fig6;
     }
 
     figure .food {
