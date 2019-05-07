@@ -13,8 +13,8 @@
   2. A navbar with responsive single page navigation using a <nav> element with links to parts of the page.
   3. A profile section including a profile photo and a bio.
   4. A photo gallery.
-  5. A fun fact article- "Why April 1st is Fool's Day".
-  6. A blog article - "A Quick Look at CSS Sprites".
+  5. A story entitled "Evelina"
+  6. A blog article - "CSS Sprintes".
   7. A contact form allowing readers to send contact message.
   8. A footer that displaying a copyright notice and social icon to GitHub account.
 
@@ -27,7 +27,7 @@
   
   ### Remark
  
-  The design of this project follows CSS formatting rules.
+  CSS formatting rules are followed in regards to the design of this webpage project.
   
   ### Attributions
   
