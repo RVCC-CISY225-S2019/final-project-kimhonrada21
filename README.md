@@ -3,12 +3,12 @@
 
 ### Description
 
-**This a webpage created and designed to meet the requirements for the Final Project for Webpage Development 1. This webpage includes, but is not limited to, a short bio about the author, a gallery which showcases photographs from the author's personal portfolio, an article about CSS Sprites, and contact forms. **
+**This a webpage created and designed to meet the requirements for the Final Project for Webpage Development 1. This webpage includes, but is not limited to, a short bio about the author, a gallery which showcases photographs from the author's personal portfolio, an article about CSS Sprites, and contact forms.**
 
 **The basic design ideas behind this website is to provide a responsive personal web page that runs responsively in multiple layouts.**
 
 
-*The contents including the following:*
+***The contents including the following:***
   1. A header displaying a logo and page title. 
   2. A navbar with responsive single page navigation using a <nav> element with links to parts of the page.
   3. A profile section including a profile photo and a bio.
@@ -18,7 +18,7 @@
   7. A contact form allowing readers to send contact message.
   8. A footer that displaying a copyright notice and social icon to GitHub account.
 
-*The styling including the following:*
+***The styling including the following:***
   1. Typography: use of font family, font weights, and italic style.
   2. Color design
   3. Logo: the logo is designed using Vecteezy tool.
