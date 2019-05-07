@@ -1,104 +1,34 @@
-# Project 7
-## Add responsive web design for tablets and wide screens & Add styling for print
+# Final Project - WEB DEV 1
+## Final Project for Webpage Development 1
 
-**You are expected to thoroughly review the materials in Module Week 10 as well as Module Week 6. You must use our CSS formatting rules from the CISY 225 Style Guide when writing your CSS. You are also required to use Beautify inside of Brackets. I encourage you to beautify often as you write code for your HTML and CSS.**
+### Description
 
+**This a webpage created and designed to meet the requirements for the Final Project for Webpage Development 1. This webpage includes, but is not limited to, a short bio about the author, a gallery which showcases photographs from the author's personal portfolio, an article about CSS Sprites, and contact forms. **
 
-**You Must Have a Perfect Project 6 Repo. Make all changes to P6 before starting this project. Your grade depends on this. If you need help, ask me for help.**
-
-In this project you are using the design document as shown in 
-
-[Adobe XD RWD of About Me](https://xd.adobe.com/spec/a5db66b4-3086-4f9b-4c62-b0ecce091949-d3ea/ "Adobe XD RWD of ABout Me")
-
-You will be adding media queries and CSS grids to get your About Me page looking similar to the design images.
-
-0. Use Project 6 as your starter code.
-1. Make room at the bottom of your styles.css file to add new styling.
-2. Add the following shell code.
-
-````
-/*  grids */
-
-main {
-	display: grid;
-}
-
-/* hero content */
-
-.content {
-	display: grid;
-}
-
-/* about content */
-
-.about-content {
-	display: grid;
-}
-
-/*  gallery */
-
-.gallery {
-	display: grid;
-}
-
-/*  article */
-
-article {
-	display: grid;
-}
-
-/* form container */
-.form-container {
-	display: grid;
-}
-
-/* footer */
-
-footer {
-	display: grid;
-}
-
-/*  layout */
-
-/*   mobile is the default layout*/
-
-/* tablet layout >=48rem (768px) */
-
-@media screen and (min-width: 48rem) {
-
-	/*      hero content */
-
-	/*	about content */
-
-	/*	gallery */
-
-	/*	article */
-
-	/*	form */
+**The basic design ideas behind this website is to provide a responsive personal web page that runs responsively in multiple layouts.**
 
 
-}
+*The contents including the following:*
+  1. A header displaying a logo and page title. 
+  2. A navbar with responsive single page navigation using a <nav> element with links to parts of the page.
+  3. A profile section including a profile photo and a bio.
+  4. A photo gallery.
+  5. A fun fact article- "Why April 1st is Fool's Day".
+  6. A blog article - "A Quick Look at CSS Sprites".
+  7. A contact form allowing readers to send contact message.
+  8. A footer that displaying a copyright notice and social icon to GitHub account.
 
-/* wide screen layout >=64rem (1024px) */
-
-@media screen and (min-width: 64rem) {
-
-	/*      hero content */
-
-	/*	about content */
-
-	/*	gallery */
-
-	/*	article */
-
-	/*	form */
-
-}
-````
-
-3. Edit your HTML to match classes, id needed to match the above shell.
-4. Edit the CSS to add layout for tablets using the media query.
-5. Test your layout using Developer Tools.
-6. Edit the CSS to add layout for tablets using the media query.
-7. Add an external stylesheet for print using the [How to Create Printer-friendly Pages with CSS](https://www.sitepoint.com/css-printer-friendly-pages/ "How to Create Printer-friendly Pages with CSS")
-8. Validate, validate, validate and beautify, beautify, beautify before submitting.
+*The styling including the following:*
+  1. Typography: use of font family, font weights, and italic style.
+  2. Color design
+  3. Logo: the logo is designed using Vecteezy tool.
+  4. Favicon: the Favicon is based on the Logo image.
+  5. Layout: responvice design with a fluid layout, flexible images, and media queries
+  
+  ### Remark
+ 
+  The design of this project follows CSS formatting rules.
+  
+  ### Attributions
+  
+  The copyrights of all photos/images appearing in this website, including the logo and Favicon are reserved to Kim Honrada.
