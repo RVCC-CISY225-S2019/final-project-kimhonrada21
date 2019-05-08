@@ -225,13 +225,12 @@ footer {
     }
 
     article h1,
-    .blogsprite,
-    .story-body {
+    .story-body,
+    .article-body{
         grid-column: 2/3;
     }
 
-    article h1,
-    .blogsprite {
+    article h1, {
         align-self: center;
         justify-self: center;
     }
